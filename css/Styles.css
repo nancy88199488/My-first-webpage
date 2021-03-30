@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+    display: block;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    flex-direction: row;
+}
+h2{
+    color: green;
+    font-style: italic;
+    text-align: center;
+
+}
+p{
+    font-family: sans-serif;
+
+    
+}
+link{
+    text-align: left;
+}
+ul {
+    line-height: 40px;
+    color:blue;
+    
+    
+}
+ol{
+    line-height: 40px;
+    color: purple;
+
+    
+}
